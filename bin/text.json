@@ -1,0 +1,77 @@
+{
+  "the matrix": {
+    "distributor": "Warner Bros",
+    "production_year": "March 24, 1999",
+    "country": "USA, Australia",
+    "genre": "fantastic, action movie",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "producer": "Joel Silver",
+    "actors": {
+      "Keanu Reeves": "neo",
+      "Laurence Fishburne": "morpheus",
+      "Carrie-Anne Moss": "trinity",
+      "Hugo Weaving": "agent smith",
+      "Gloria Foster": "oracle"
+    }
+  },
+  "the matrix reloaded": {
+    "distributor": "Warner Bros",
+    "production_year": "May 13, 2003",
+    "country": "USA, Australia",
+    "genre": "fantastic, action movie",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "producer": "Joel Silver",
+    "actors": {
+      "Keanu Reeves": "neo",
+      "Laurence Fishburne": "morpheus",
+      "Carrie-Anne Moss": "trinity",
+      "Hugo Weaving": "agent smith",
+      "Gloria Foster": "oracle"
+    }
+  },
+  "the matrix revolutions": {
+    "distributor": "Warner Bros",
+    "production_year": "Nov 05, 2003",
+    "country": "USA, Australia",
+    "genre": "fantastic, action movie",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "producer": "Joel Silver",
+    "actors": {
+      "Keanu Reeves": "neo",
+      "Laurence Fishburne": "morpheus",
+      "Carrie-Anne Moss": "trinity",
+      "Hugo Weaving": "agent smith",
+      "Gloria Foster": "oracle"
+    }
+  },
+  "predators": {
+    "distributor": "20th Century Fox",
+    "production_year": "Jul 09, 2010",
+    "country": "USA",
+    "genre": "Action, Adventure, Sci-Fi",
+    "director": "Nimród Antal",
+    "producer": "John Davis, Robert Rodriguez",
+    "actors": {
+      "Laurence Fishburne": "Ronald Noland",
+      "Oleg Taktarov": "Nikolai",
+      "Adrien Brody": "Royce",
+      "Topher Grace": "Edwin"
+    }
+  },
+
+  "the lord of the rings": {
+    "distributor": "New Line Cinema",
+    "production_year": "Dec 19, 2001",
+    "country": "New Zealand, USA",
+    "genre": "Action, Adventure, Drama",
+    "director": "Peter Jackson",
+    "producer": "Peter Jackson",
+    "actors": {
+      "Sala Baker": "Sauron",
+      "Orlando Bloom": "Legolas",
+      "Ian McKellen": "Gandalf",
+      "Hugo Weaving": "Elrond",
+      "Elijah Wood" : "Frodo"
+    }
+  }
+}
